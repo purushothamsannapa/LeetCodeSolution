@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Math
 |  |
 | ------- |
