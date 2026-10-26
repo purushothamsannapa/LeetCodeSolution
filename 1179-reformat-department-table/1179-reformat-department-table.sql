@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT id,
     MAX(IF(month="Jan", revenue,NULL)) AS Jan_Revenue,
     MAX(IF(month="Feb", revenue,NULL)) AS Feb_Revenue,
