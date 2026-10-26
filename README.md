@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/1211-queries-quality-and-percentage) |
 ## Math
 |  |
 | ------- |
