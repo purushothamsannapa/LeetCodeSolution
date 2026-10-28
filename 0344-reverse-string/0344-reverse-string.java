@@ -1,24 +1,18 @@
 class Solution {
     public void reverseString(char[] s) {
-        char[] rser=rev(s);
-        for(int i=0;i<s.length;i++)
-        {
-            s[i]= rser[i];
-        }
+        reversHelper(s,0,s.length-1);
     }
-    char[] rev(char[] s)
+    public void reversHelper(char[] c,int s,int e)
     {
-        if (s == null || s.length == 0) 
+        if(s>=e)
         {
-            return new char[0];
+            return;
         }
-        char[] ch = new char[s.length];
-        int j=0;
-        for(int i=s.length-1;i>=0;i--)
-        {
-            ch[j]=s[i];
-            j++;
-        }
-        return ch;
+
+        char temp=c[s];
+        c[s]=c[e];
+        c[e]=temp;
+
+        reversHelper(c,s+1,e-1);
     }
 }
