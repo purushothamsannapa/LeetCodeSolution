@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0347-top-k-frequent-elements) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0344-reverse-string) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/purushothamsannapa/LeetCodeSolution/tree/master/0242-valid-anagram) |
